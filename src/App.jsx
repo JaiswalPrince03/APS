@@ -17,14 +17,14 @@ function App() {
         <Services />
         <Contact />
         
-        {/* <main className="flex-grow">
+        <main className="flex-grow">
           <Routes>
             <Route path="/" element={<Hero />} />
             <Route path="/about" element={<About />} />
             <Route path="/services" element={<Services />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
-        </main> */}
+        </main>
         <Footer />
       </div>
     </Router>
