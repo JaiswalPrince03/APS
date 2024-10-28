@@ -12,14 +12,19 @@ function App() {
     <Router>
       <div className="flex flex-col min-h-screen">
         <Navbar />
-        <main className="flex-grow">
+        <Hero />
+        <About />
+        <Services />
+        <Contact />
+        
+        {/* <main className="flex-grow">
           <Routes>
             <Route path="/" element={<Hero />} />
             <Route path="/about" element={<About />} />
             <Route path="/services" element={<Services />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>
-        </main>
+        </main> */}
         <Footer />
       </div>
     </Router>
