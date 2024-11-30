@@ -20,8 +20,12 @@ const Services = () => {
         <div className="md:ml-8 mt-8 md:mt-0">
           <h2 className="text-3xl font-bold text-blue-400 mb-4">INTERIOR PAINTING</h2>
           <p className="text-gray-700 mb-4">
-            If you've ever wanted to make your business stand out, make a difference and simply catch an eye of any person who goes by your sign – the painted signage will be the perfect service for your needs! The signage service will set your business apart from the rest. It's not that long as our company has taken our ability to create murals one step further, to include custom painted Signs for businesses! Rainbow's Colors has already altered the traditional way of displaying your company's name, brand, and/or logo on your building. If you're looking for something more than simply hire us!
-          </p>
+          Breathe new life into your home or office with our interior painting services. From bedrooms to living rooms, kitchens to hallways, our expert painters ensure every wall receives the highest level of attention. We work with you to choose the perfect colors and finishes that match your vision, enhancing the ambiance and style of your space.
+
+          Room transformations
+          Custom color consultations
+          High-quality paints and finishes
+          Flawless, smooth finishes for a pristine look          </p>
           <button className="bg-yellow-400 text-white py-2 px-4 rounded">READ MORE</button>
         </div>
       </div>
